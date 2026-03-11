@@ -1,5 +1,6 @@
-a {
-color: purple;
+a:hover {
+    color: red;
+    text-decoration: underline;
 }
 body {
 font-family: Arial, sans-serif;
